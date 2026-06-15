@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>World Cup Prediction</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>🏆 World Cup Prediction</h1>
+
+  <input type="text" id="name" placeholder="Enter your name">
+
+  <div id="matches"></div>
+
+  <h2>📊 Your Predictions</h2>
+  <div id="myPredictions"></div>
+
+  <script src="matches.js"></script>
+  <script src="app.js"></script>
+
+</body>
+</html>
